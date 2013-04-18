@@ -97,8 +97,7 @@ hr {
 }
 pre, code, kbd, samp {
   color: #000;
-  font-family: monospace, monospace;
-  _font-family: 'courier new', monospace;
+  font-family: monospace;
   font-size: 0.95em;
 }
 pre {
