@@ -1,7 +1,7 @@
 html { font-size: 100%; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
 
 body{
-color:#444;
+color:#111;
 font-family:Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
 font-size:12px;
 line-height:1.5em;
@@ -34,7 +34,7 @@ max-width:100%;
 
 h1,h2,h3,h4,h5,h6{
 font-weight:normal;
-color:#111;
+color:#000;
 line-height:1em;
 }
 h4,h5,h6{ font-weight: bold; }
@@ -46,7 +46,7 @@ h5{ font-size:0.9em; }
 h6{ font-size:0.8em; }
 
 blockquote{
-color:#666666;
+color:#444;
 margin:0;
 padding-left: 3em;
 border-left: 0.5em #EEE solid;
