@@ -1,3 +1,8 @@
+@viewport {
+  width: 320px auto;
+  zoom: 1.0;
+  user-zoom: fixed;
+}
 html {
   font-size: 100%;
   overflow-y: scroll;
